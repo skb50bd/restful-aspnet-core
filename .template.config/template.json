@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Shakib Haris",
+  "classifications": [ "WebAPI", "JWT", "Authentication", "Validation", "REST", "RESTful" ],
+  "identity": "BrotalApiTemplate",
+  "name": "Brotal API Template: WebAPI",
+  "shortName": "brotalapi",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
